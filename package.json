@@ -1,0 +1,26 @@
+{
+  "name": "skiptskool",
+  "version": "1.0.0",
+  "description": "-> node/express cart => for t-shirt cart v.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDRCKSHLBRD/SKIPTSKOOL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RDRCKSHLBRD/SKIPTSKOOL/issues"
+  },
+  "homepage": "https://github.com/RDRCKSHLBRD/SKIPTSKOOL#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
